@@ -127,7 +127,7 @@ Installation of this project is pretty easy. Please do follow the following step
 ```
 
 ### Step 6: Add the pre-trained model in your project structure. I had trained the model already.
-As **detector-base.pt** model is very large in size(400 MB), So I cannot push it into github repository directly. So, you had to update it manually in and you had to insert the model folder in your project structure.
+As **detector-base.pt** model is very large in size(400 MB), So I cannot push it into github repository directly. So, you had to update it manually in and you had to insert the model in your project structure.
 
 You can download the **detector-base.pt** model from [here](https://drive.google.com/file/d/1gmRkcygtGTXoNRSLiJTDXzmffubVIEle/view?usp=sharing)
 
