@@ -100,7 +100,7 @@ Installation of this project is pretty easy. Please do follow the following step
 
 ### Step-2: Navigate to the project directory:
 ```bash
-    cd Fake_News_Detection_GPT
+    cd Fake_News_Detection_GPT-2
 ```
 
 ### Step 3: Create a conda environment after opening the repository
